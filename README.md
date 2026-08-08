@@ -19,6 +19,12 @@ The final model achieved **~96.49% accuracy** on test data.
 
 ---
 
+## 🎥 Project Demo
+
+[![Watch the Demo]](https://drive.google.com/drive/folders/1h2r6VZQrIad9ja9RP670ag9ok692b4qL?usp=drive_link)
+
+---
+
 ## 🚀 Features
 
 - Deep learning-based classification  
