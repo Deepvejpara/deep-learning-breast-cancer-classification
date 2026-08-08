@@ -142,8 +142,7 @@ DL_PR1.ipynb
 
 ## 👤 Author
 
-**Deepvej Para**  
-GitHub: https://github.com/Deepvejpara  
+**Deep Vejpara**  
 
 ---
 
